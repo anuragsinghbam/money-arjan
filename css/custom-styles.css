@@ -8,7 +8,6 @@
   margin-bottom: 1em;
 }
 
-
 .why-us-icons {
   width: 25px;
   margin-right: 1em;
@@ -23,11 +22,25 @@
 
 .priytam {
   border-radius: 10px;
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.26)
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.26);
 }
 
 @media (max-width: 576px) {
   .faq_content.collaps_style .card {
     margin-top: 2em;
+  }
+}
+
+.header_part.classic_header.menu_padding .navbar .nav-link {
+  padding: 25px 0;
+}
+
+.header_part.classic_header.menu_padding {
+  padding: 5px 50px;
+}
+
+@media (max-width: 768px) {
+  .header_part.classic_header.menu_padding {
+    padding: 5px 20px;
   }
 }
