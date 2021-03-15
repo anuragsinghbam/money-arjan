@@ -1,3 +1,24 @@
 .makes-us-different {
   margin-top: 6em;
 }
+.m-top {
+  margin-top: 2em;
+}
+
+
+.why-us-icons {
+  width: 25px;
+  margin-right: 1em;
+  padding-top: 0.7em;
+}
+
+.points {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 1.5em;
+}
+
+.priytam {
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.26)
+}
