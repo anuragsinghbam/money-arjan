@@ -114,7 +114,7 @@
     var counter = $('.counter');
     if (counter.length > 0) {
         counter.counterUp({
-            time: 2000
+            time: 3000
         });
     }
 
