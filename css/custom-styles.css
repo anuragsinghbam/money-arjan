@@ -82,8 +82,8 @@ html {
 .service-includes {
   background: #f4f7f8;
   list-style: none;
-  padding: 2.5em;
-  margin-top: 5em;
+  padding: 4em 0;
+  margin: 5em 0;
 }
 .service-includes li {
   list-style: none;

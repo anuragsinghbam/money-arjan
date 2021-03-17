@@ -8276,6 +8276,7 @@ button:focus {
   background-size: cover;
 }
 .breadcrumb_part.bg_11 {
+ 
   background-image: url("../img/breadcrumb_bg/shop_breadcrumg_1.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -8288,7 +8289,8 @@ button:focus {
   background-size: cover;
 }
 .breadcrumb_part.bg_13 {
-  background-image: url("../img/breadcrumb_bg/blog_breadcrumg_2.png");
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/breadcrumb_bg/blog_breadcrumg_2.jpg");
+  background-color: rgba(0, 0, 0, 0.7);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9209,9 +9211,7 @@ button:focus {
     margin-top: 0;
   }
 }
-.blog_details_section.blog_details_full_width.sec_padding {
-  margin-top: -200px;
-}
+
 @media (max-width: 991px) {
   .blog_details_section.blog_details_full_width.sec_padding {
     margin-top: 0;
