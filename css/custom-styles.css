@@ -76,7 +76,7 @@ html {
 }
 
 .fa-check-circle {
-  color: skyblue;
+  color: rgb(32, 176, 233);
 }
 
 .service-includes {
@@ -99,4 +99,33 @@ html {
 
 .pricing-plans {
   margin: -4em 0;
+}
+
+
+.services-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.green-check {
+  position: absolute;
+  left: 0;
+  color: green;
+}
+
+.red-check  {
+  position: absolute;
+  left: 0;
+  color: red;
+}
+
+.service-process {
+  background: #fff;
+}
+
+.service-process-icon:hover {
+  color: rgb(32, 176, 233);
+  transition: color 0.2s ease-in-out;
 }
