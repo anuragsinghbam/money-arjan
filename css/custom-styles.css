@@ -96,3 +96,7 @@ html {
 .service-includes h1 {
   margin-bottom: 1em;
 }
+
+.pricing-plans {
+  margin: -4em 0;
+}
