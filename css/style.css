@@ -8489,6 +8489,7 @@ button:focus {
 .breadcrumb_part.services_details_breadcrumb {
   position: relative;
   background-image: url("../img/services_details/bg.png");
+  background: #27AEE3;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -8552,7 +8553,7 @@ button:focus {
     right: 0;
   }
 }
-@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+@media only screen and (min-width: 992px) and (max-width: 1499.98px) {
   .breadcrumb_part.services_details_breadcrumb .breadcrumb_img_2 {
     max-width: 250px;
     right: 0;
