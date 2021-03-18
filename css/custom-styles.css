@@ -133,3 +133,11 @@ html {
 .breadcrumb_part.services_details_breadcrumb.ecommerce {
   background: #6C63FF;
 }
+
+.breadcrumb_part.services_details_breadcrumb.real-estate {
+  background: #1c717c;
+}
+
+.breadcrumb_part.services_details_breadcrumb.static {
+  background: #50a3a4;
+}
